@@ -2,4 +2,8 @@
 34
 56
 78
+<<<<<<< HEAD
 fdsdgf
+=======
+fds
+>>>>>>> 79df9e6a7d27a9a3537ab32ce43a4a8df570edb2
